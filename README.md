@@ -1,4 +1,4 @@
-# Stockroom — Inventory & Invoicing System
+# Stockroom - ERP System for Tech Trove
 
 An internal inventory, purchasing and invoicing system I built for a multi-company electronics distribution business. It tracks every unit from purchase order to delivery to serial number to pallet to customer invoice.
 
